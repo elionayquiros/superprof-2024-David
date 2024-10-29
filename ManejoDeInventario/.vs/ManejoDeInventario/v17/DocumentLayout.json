@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84350D0D-96CE-4090-93D1-698150E5028E}|ManejoDeInventario.LogicaDeNegocio\\ManejoDeInventario.LogicaDeNegocio.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\manejodelinventario\\manejodeinventario\\manejodeinventario.logicadenegocio\\clientes\\listar\\listarclientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84350D0D-96CE-4090-93D1-698150E5028E}|ManejoDeInventario.LogicaDeNegocio\\ManejoDeInventario.LogicaDeNegocio.csproj|solutionrelative:manejodeinventario.logicadenegocio\\clientes\\listar\\listarclientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17182519-B702-4BF5-9C2B-C805AD1F64A0}|ManejoDeInventario.UI\\ManejoDeInventario.UI.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\manejodelinventario\\manejodeinventario\\manejodeinventario.ui\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17182519-B702-4BF5-9C2B-C805AD1F64A0}|ManejoDeInventario.UI\\ManejoDeInventario.UI.csproj|solutionrelative:manejodeinventario.ui\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17182519-B702-4BF5-9C2B-C805AD1F64A0}|ManejoDeInventario.UI\\ManejoDeInventario.UI.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\manejodelinventario\\manejodeinventario\\manejodeinventario.ui\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17182519-B702-4BF5-9C2B-C805AD1F64A0}|ManejoDeInventario.UI\\ManejoDeInventario.UI.csproj|solutionrelative:manejodeinventario.ui\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5365EB-7A1A-4B98-BCFD-C9D121A77140}|ManejoDeInventario.Abstracciones\\ManejoDeInventario.Abstracciones.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\manejodelinventario\\manejodeinventario\\manejodeinventario.abstracciones\\modelos\\clientes\\clientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5365EB-7A1A-4B98-BCFD-C9D121A77140}|ManejoDeInventario.Abstracciones\\ManejoDeInventario.Abstracciones.csproj|solutionrelative:manejodeinventario.abstracciones\\modelos\\clientes\\clientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CEFCCA-2B1E-4C2E-AC22-9EEBD277CC15}|ManejoDeInventario.AccesoADatos\\ManejoDeInventario.AccesoADatos.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\manejodelinventario\\manejodeinventario\\manejodeinventario.accesoadatos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CEFCCA-2B1E-4C2E-AC22-9EEBD277CC15}|ManejoDeInventario.AccesoADatos\\ManejoDeInventario.AccesoADatos.csproj|solutionrelative:manejodeinventario.accesoadatos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17182519-B702-4BF5-9C2B-C805AD1F64A0}|ManejoDeInventario.UI\\ManejoDeInventario.UI.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\manejodelinventario\\manejodeinventario\\manejodeinventario.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17182519-B702-4BF5-9C2B-C805AD1F64A0}|ManejoDeInventario.UI\\ManejoDeInventario.UI.csproj|solutionrelative:manejodeinventario.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17182519-B702-4BF5-9C2B-C805AD1F64A0}|ManejoDeInventario.UI\\ManejoDeInventario.UI.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\manejodelinventario\\manejodeinventario\\manejodeinventario.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17182519-B702-4BF5-9C2B-C805AD1F64A0}|ManejoDeInventario.UI\\ManejoDeInventario.UI.csproj|solutionrelative:manejodeinventario.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5365EB-7A1A-4B98-BCFD-C9D121A77140}|ManejoDeInventario.Abstracciones\\ManejoDeInventario.Abstracciones.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\manejodelinventario\\manejodeinventario\\manejodeinventario.abstracciones\\interfaces\\clientes\\listar\\ilistarclientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5365EB-7A1A-4B98-BCFD-C9D121A77140}|ManejoDeInventario.Abstracciones\\ManejoDeInventario.Abstracciones.csproj|solutionrelative:manejodeinventario.abstracciones\\interfaces\\clientes\\listar\\ilistarclientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.UI\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "ManejoDeInventario.UI\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.UI\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "ManejoDeInventario.UI\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:30:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.UI\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ManejoDeInventario.UI\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.UI\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ManejoDeInventario.UI\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwEkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:29:07.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.AccesoADatos\\Contexto.cs",
+              "RelativeDocumentMoniker": "ManejoDeInventario.AccesoADatos\\Contexto.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.AccesoADatos\\Contexto.cs",
+              "RelativeToolTip": "ManejoDeInventario.AccesoADatos\\Contexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:26:27.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarClientesLN.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.LogicaDeNegocio\\Clientes\\Listar\\ListarClientesLN.cs",
+              "RelativeDocumentMoniker": "ManejoDeInventario.LogicaDeNegocio\\Clientes\\Listar\\ListarClientesLN.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.LogicaDeNegocio\\Clientes\\Listar\\ListarClientesLN.cs",
+              "RelativeToolTip": "ManejoDeInventario.LogicaDeNegocio\\Clientes\\Listar\\ListarClientesLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:25:09.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesDto.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.Abstracciones\\Modelos\\Clientes\\ClientesDto.cs",
+              "RelativeDocumentMoniker": "ManejoDeInventario.Abstracciones\\Modelos\\Clientes\\ClientesDto.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.Abstracciones\\Modelos\\Clientes\\ClientesDto.cs",
+              "RelativeToolTip": "ManejoDeInventario.Abstracciones\\Modelos\\Clientes\\ClientesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:22:14.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ManejoDeInventario.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ManejoDeInventario.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:21:26.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ManejoDeInventario.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ManejoDeInventario.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T21:20:45.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IListarClientesLN.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.Abstracciones\\Interfaces\\Clientes\\Listar\\IListarClientesLN.cs",
+              "RelativeDocumentMoniker": "ManejoDeInventario.Abstracciones\\Interfaces\\Clientes\\Listar\\IListarClientesLN.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\manejodelinventario\\ManejoDeInventario\\ManejoDeInventario.Abstracciones\\Interfaces\\Clientes\\Listar\\IListarClientesLN.cs",
+              "RelativeToolTip": "ManejoDeInventario.Abstracciones\\Interfaces\\Clientes\\Listar\\IListarClientesLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:51:44.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
