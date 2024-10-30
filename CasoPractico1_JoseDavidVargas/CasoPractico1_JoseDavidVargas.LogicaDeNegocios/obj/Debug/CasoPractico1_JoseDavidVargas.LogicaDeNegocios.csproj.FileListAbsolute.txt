@@ -1,0 +1,14 @@
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.pdb
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\obj\Debug\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\obj\Debug\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\obj\Debug\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\obj\Debug\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.pdb
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.pdb
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.pdb
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.dll.config
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\obj\Debug\CasoPrac.62982ED4.Up2Date

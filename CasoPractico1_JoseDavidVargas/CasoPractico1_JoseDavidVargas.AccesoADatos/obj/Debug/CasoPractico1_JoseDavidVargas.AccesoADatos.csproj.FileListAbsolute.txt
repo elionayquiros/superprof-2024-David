@@ -1,0 +1,14 @@
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.pdb
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\obj\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\obj\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\obj\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\obj\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.pdb
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\CasoPractico1_JoseDavidVargas.AccesoADatos.dll.config
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\EntityFramework.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\EntityFramework.xml
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\obj\Debug\CasoPrac.A66F125E.Up2Date
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.AccesoADatos\bin\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.pdb
