@@ -74,7 +74,6 @@ C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPracti
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\obj\Debug\CasoPractico1_JoseDavidVargas.UI.csproj.AssemblyReference.cache
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\obj\Debug\CasoPractico1_JoseDavidVargas.UI.csproj.CoreCompileInputs.cache
-C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\obj\Debug\CasoPrac.473B445F.Up2Date
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\obj\Debug\CasoPractico1_JoseDavidVargas.UI.dll
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\obj\Debug\CasoPractico1_JoseDavidVargas.UI.pdb
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\CasoPractico1_JoseDavidVargas.Abstracciones.dll
@@ -86,3 +85,4 @@ C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPracti
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\CasoPractico1_JoseDavidVargas.AccesoADatos.pdb
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\CasoPractico1_JoseDavidVargas.AccesoADatos.dll.config
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\EntityFramework.xml
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\obj\Debug\CasoPractico1_JoseDavidVargas.UI.csproj.CopyComplete
