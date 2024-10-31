@@ -18,21 +18,29 @@ namespace CasoPractico1_JoseDavidVargas.Abstracciones.Modelos.FlotaAdministrativ
         [DisplayName("Modelo del automóvil")]
         [Required]
         public string Modelo { get; set; }
-        [DisplayName("Modelo del automóvil")]
+        [DisplayName("Año")]
         [Required]
         [MinLength(4),MaxLength(4)]
         public string Anio { get; set; }
         
-        [DisplayName("1= Sedan compacto, 2=SUV Compacto, 3=SUV Premium)")]
+        [DisplayName("Tipo de vehiculo")]
         [Required]
         //buscar dataannotation para restringir valores a 1, 2 y 3        
         public int TipoDeVehiculo { get; set; }
 
+        [NotMapped]
+        public string DetalleTipo {
+            get
+            {
+                return "Automovil";                
+            }
+        }
+
         [DisplayName("Monto por día")]
         [Required]
-        public double MontoPorDia { get; set; }
+        public decimal MontoPorDia { get; set; }
         [DisplayName("Monto de seguro por día")]        
-        public double MontoDeSeguro { get; set; }
+        public decimal MontoDeSeguro { get; set; }
         [DisplayName("Fecha de registro")]
         [Required]
         public DateTime FechaDeRegistro { get; set; }

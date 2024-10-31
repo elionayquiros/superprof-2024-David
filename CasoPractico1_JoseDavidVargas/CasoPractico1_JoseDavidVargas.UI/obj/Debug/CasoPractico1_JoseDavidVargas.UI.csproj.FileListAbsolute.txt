@@ -86,3 +86,5 @@ C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPracti
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\CasoPractico1_JoseDavidVargas.AccesoADatos.dll.config
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\EntityFramework.xml
 C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\obj\Debug\CasoPractico1_JoseDavidVargas.UI.csproj.CopyComplete
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.UI\bin\EntityFramework.SqlServer.xml

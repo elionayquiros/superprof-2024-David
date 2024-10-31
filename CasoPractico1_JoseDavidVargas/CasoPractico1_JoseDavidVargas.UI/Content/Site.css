@@ -18,3 +18,60 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/* Estilos básicos para una tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+/* Bordes de las celdas y encabezado */
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+/* Encabezado de la tabla */
+th {
+    background-color: #4CAF50;
+    color: black;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* Colores alternados en las filas */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Resaltar fila al pasar el cursor */
+tr:hover {
+    background-color: #ddd;
+}
+
+/* Celdas de acción con botón */
+td .btn {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+/* Estilos específicos para los botones */
+.btn-edit {
+    background-color: #ff9800;
+}
+
+.btn-details {
+    background-color: #2196F3;
+}
+
+.btn-delete {
+    background-color: #f44336;
+}

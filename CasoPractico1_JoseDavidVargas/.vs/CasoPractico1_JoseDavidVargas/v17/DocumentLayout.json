@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{8328C79E-01C2-4D1F-B469-9D58AF5836B1}|CasoPractico1_JoseDavidVargas.UI\\CasoPractico1_JoseDavidVargas.UI.csproj|solutionrelative:casopractico1_josedavidvargas.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\git\\superprof-2024-david\\casopractico1_josedavidvargas\\casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\listar\\flotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\listar\\flotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|solutionrelative:casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\listar\\flotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC4F1264-2D04-4092-823F-16BE775008BB}|CasoPractico1_JoseDavidVargas.AccesoADatos\\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\git\\superprof-2024-david\\casopractico1_josedavidvargas\\casopractico1_josedavidvargas.accesoadatos\\flotaadministrativa\\listar\\listarflotaadministrativaad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC4F1264-2D04-4092-823F-16BE775008BB}|CasoPractico1_JoseDavidVargas.AccesoADatos\\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj|C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\casopractico1_josedavidvargas.accesoadatos\\flotaadministrativa\\listar\\listarflotaadministrativaad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC4F1264-2D04-4092-823F-16BE775008BB}|CasoPractico1_JoseDavidVargas.AccesoADatos\\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj|solutionrelative:casopractico1_josedavidvargas.accesoadatos\\flotaadministrativa\\listar\\listarflotaadministrativaad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.UI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.UI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CasoPractico1_JoseDavidVargas.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T03:17:42.288Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaAD.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T03:12:34.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T03:12:34.209Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\FlotaAdministrativaLN.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T03:07:57.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T03:07:57.805Z"
             }
           ]
         }

@@ -17,8 +17,8 @@ namespace CasoPractico1_JoseDavidVargas.Abstracciones.ModelosAccesoADatos
         public string Marca { get; set; }
         public string Anio { get; set; }
         public int TipoDeVehiculo { get; set; }
-        public double MontoPorDia { get; set; }
-        public double MontoDeSeguro { get; set; }
+        public decimal MontoPorDia { get; set; }
+        public decimal MontoDeSeguro { get; set; }
         public DateTime FechaDeRegistro { get; set; }
         public DateTime FechaDeModificacion { get; set; }
         public bool Estado { get; set; }
