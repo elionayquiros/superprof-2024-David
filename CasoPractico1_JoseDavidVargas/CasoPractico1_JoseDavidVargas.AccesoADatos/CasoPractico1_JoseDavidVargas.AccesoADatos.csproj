@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contexto.cs" />
+    <Compile Include="FlotaAdministrativa\Guardar\GuardarFlotaAdministrativa.cs" />
     <Compile Include="FlotaAdministrativa\Listar\ListarFlotaAdministrativaAD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

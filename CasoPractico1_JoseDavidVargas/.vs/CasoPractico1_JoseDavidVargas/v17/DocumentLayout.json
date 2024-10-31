@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8328C79E-01C2-4D1F-B469-9D58AF5836B1}|CasoPractico1_JoseDavidVargas.UI\\CasoPractico1_JoseDavidVargas.UI.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\git\\superprof-2024-david\\casopractico1_josedavidvargas\\casopractico1_josedavidvargas.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8328C79E-01C2-4D1F-B469-9D58AF5836B1}|CasoPractico1_JoseDavidVargas.UI\\CasoPractico1_JoseDavidVargas.UI.csproj|solutionrelative:casopractico1_josedavidvargas.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\listar\\flotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|solutionrelative:casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\listar\\flotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\git\\superprof-2024-david\\casopractico1_josedavidvargas\\casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\listar\\listarflotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|solutionrelative:casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\listar\\listarflotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC4F1264-2D04-4092-823F-16BE775008BB}|CasoPractico1_JoseDavidVargas.AccesoADatos\\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj|C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\casopractico1_josedavidvargas.accesoadatos\\flotaadministrativa\\listar\\listarflotaadministrativaad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC4F1264-2D04-4092-823F-16BE775008BB}|CasoPractico1_JoseDavidVargas.AccesoADatos\\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj|solutionrelative:casopractico1_josedavidvargas.accesoadatos\\flotaadministrativa\\listar\\listarflotaadministrativaad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA500EE-DA6A-47C6-88D0-340F9A50C0E3}|CasoPractico1_JoseDavidVargas.Abstracciones\\CasoPractico1_JoseDavidVargas.Abstracciones.csproj|c:\\users\\elioi\\onedrive\\superprof\\2024\\david\\git\\superprof-2024-david\\casopractico1_josedavidvargas\\casopractico1_josedavidvargas.abstracciones\\interfacesaccesoadatos\\flotaadministrativa\\listar\\ilistarflotaadministrativaad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA500EE-DA6A-47C6-88D0-340F9A50C0E3}|CasoPractico1_JoseDavidVargas.Abstracciones\\CasoPractico1_JoseDavidVargas.Abstracciones.csproj|solutionrelative:casopractico1_josedavidvargas.abstracciones\\interfacesaccesoadatos\\flotaadministrativa\\listar\\ilistarflotaadministrativaad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\registrar\\registrarflotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5EF4E2-BD12-49D2-9822-025A168B58B5}|CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios.csproj|solutionrelative:casopractico1_josedavidvargas.logicadenegocios\\flotaadministrativa\\registrar\\registrarflotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4F1264-2D04-4092-823F-16BE775008BB}|CasoPractico1_JoseDavidVargas.AccesoADatos\\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj|C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\casopractico1_josedavidvargas.accesoadatos\\flotaadministrativa\\guardar\\guardarflotaadministrativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4F1264-2D04-4092-823F-16BE775008BB}|CasoPractico1_JoseDavidVargas.AccesoADatos\\CasoPractico1_JoseDavidVargas.AccesoADatos.csproj|solutionrelative:casopractico1_josedavidvargas.accesoadatos\\flotaadministrativa\\guardar\\guardarflotaadministrativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA500EE-DA6A-47C6-88D0-340F9A50C0E3}|CasoPractico1_JoseDavidVargas.Abstracciones\\CasoPractico1_JoseDavidVargas.Abstracciones.csproj|C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\casopractico1_josedavidvargas.abstracciones\\interfaces\\flotaadministrativa\\registrar\\iregistrarflotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA500EE-DA6A-47C6-88D0-340F9A50C0E3}|CasoPractico1_JoseDavidVargas.Abstracciones\\CasoPractico1_JoseDavidVargas.Abstracciones.csproj|solutionrelative:casopractico1_josedavidvargas.abstracciones\\interfaces\\flotaadministrativa\\registrar\\iregistrarflotaadministrativaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +34,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 172,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CasoPractico1_JoseDavidVargas.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "ListarFlotaAdministrativaLN.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaLN.cs",
+              "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaLN.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaLN.cs",
+              "RelativeToolTip": "CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaLN.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBgAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T03:17:42.288Z",
+              "WhenOpened": "2024-10-31T15:05:11.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IListarFlotaAdministrativaAD.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.Abstracciones\\InterfacesAccesoADatos\\FlotaAdministrativa\\Listar\\IListarFlotaAdministrativaAD.cs",
+              "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.Abstracciones\\InterfacesAccesoADatos\\FlotaAdministrativa\\Listar\\IListarFlotaAdministrativaAD.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.Abstracciones\\InterfacesAccesoADatos\\FlotaAdministrativa\\Listar\\IListarFlotaAdministrativaAD.cs",
+              "RelativeToolTip": "CasoPractico1_JoseDavidVargas.Abstracciones\\InterfacesAccesoADatos\\FlotaAdministrativa\\Listar\\IListarFlotaAdministrativaAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:03:52.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ListarFlotaAdministrativaAD.cs",
               "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaAD.cs",
               "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaAD.cs",
               "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaAD.cs",
               "RelativeToolTip": "CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Listar\\ListarFlotaAdministrativaAD.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T03:12:34.209Z"
+              "WhenOpened": "2024-10-31T04:18:24.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FlotaAdministrativaLN.cs",
-              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\FlotaAdministrativaLN.cs",
-              "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\FlotaAdministrativaLN.cs",
-              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\FlotaAdministrativaLN.cs",
-              "RelativeToolTip": "CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Listar\\FlotaAdministrativaLN.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IRegistrarFlotaAdministrativaLN.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.Abstracciones\\Interfaces\\FlotaAdministrativa\\Registrar\\IRegistrarFlotaAdministrativaLN.cs",
+              "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.Abstracciones\\Interfaces\\FlotaAdministrativa\\Registrar\\IRegistrarFlotaAdministrativaLN.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.Abstracciones\\Interfaces\\FlotaAdministrativa\\Registrar\\IRegistrarFlotaAdministrativaLN.cs",
+              "RelativeToolTip": "CasoPractico1_JoseDavidVargas.Abstracciones\\Interfaces\\FlotaAdministrativa\\Registrar\\IRegistrarFlotaAdministrativaLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T03:07:57.805Z"
+              "WhenOpened": "2024-10-31T04:11:05.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuardarFlotaAdministrativa.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Guardar\\GuardarFlotaAdministrativa.cs",
+              "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Guardar\\GuardarFlotaAdministrativa.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Guardar\\GuardarFlotaAdministrativa.cs",
+              "RelativeToolTip": "CasoPractico1_JoseDavidVargas.AccesoADatos\\FlotaAdministrativa\\Guardar\\GuardarFlotaAdministrativa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:09:27.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrarFlotaAdministrativaLN.cs",
+              "DocumentMoniker": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Registrar\\RegistrarFlotaAdministrativaLN.cs",
+              "RelativeDocumentMoniker": "CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Registrar\\RegistrarFlotaAdministrativaLN.cs",
+              "ToolTip": "C:\\Users\\elioi\\OneDrive\\SuperProf\\2024\\David\\git\\superprof-2024-David\\CasoPractico1_JoseDavidVargas\\CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Registrar\\RegistrarFlotaAdministrativaLN.cs",
+              "RelativeToolTip": "CasoPractico1_JoseDavidVargas.LogicaDeNegocios\\FlotaAdministrativa\\Registrar\\RegistrarFlotaAdministrativaLN.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:08:35.892Z"
             }
           ]
         }

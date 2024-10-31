@@ -45,7 +45,7 @@ namespace CasoPractico1_JoseDavidVargas.Abstracciones.Modelos.FlotaAdministrativ
         [Required]
         public DateTime FechaDeRegistro { get; set; }
         [DisplayName("Fecha de modificación")]        
-        public DateTime FechaDeModificacion { get; set; }
+        public DateTime? FechaDeModificacion { get; set; }
         [DisplayName("Estado")]
         [Required]
         public bool Estado { get; set; }

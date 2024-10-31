@@ -4,6 +4,8 @@ using CasoPractico1_JoseDavidVargas.LogicaDeNegocios.FlotaAdministrativa.Listar;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
@@ -11,13 +13,14 @@ namespace CasoPractico1_JoseDavidVargas.UI.Controllers
 {
     public class FlotaAdministrativaController : Controller
     {
-        IFlotaAdministrativaLN _flotaVehiculos;        
+        IListarFlotaAdministrativaLN _flotaVehiculos;
+        IRegistrarFlotaAdministrativaLN _registarVehiculos;
         public FlotaAdministrativaController()
         {
-            _flotaVehiculos = new FlotaAdministrativaLN();
+            _flotaVehiculos = new ListarFlotaAdministrativaLN();
+            _registarVehiculos = new RegistrarFlotaAdministrativaLN();
 
-
-		}
+        }
         
         // GET: FlotaAdministrativa
         public ActionResult Index()
@@ -40,29 +43,19 @@ namespace CasoPractico1_JoseDavidVargas.UI.Controllers
 
         // POST: FlotaAdministrativa/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
-        //    public async Task<ActionResult> Create(FlotaAdministrativaDto vehiculo)
-        //{
-        //    try
-        //    {
-                
-        //                await _crearRepuestoLN.Guardar(repuesto);
-        //                return RedirectToAction("Index");
-        //            }
-        //            catch
-        //            {
-        //                return View();
-        //            }
-        //        }
-
-
+        public async Task<ActionResult> Create(FlotaAdministrativaDto vehiculo)
+        {
+            try
+            {
+                await _registarVehiculos.Registrar(vehiculo);                          
                 return RedirectToAction("Index");
             }
             catch
-            {
-                return View();
-            }
+            { return View(); }  
+            
+
         }
+
 
         // GET: FlotaAdministrativa/Edit/5
         public ActionResult Edit(int id)

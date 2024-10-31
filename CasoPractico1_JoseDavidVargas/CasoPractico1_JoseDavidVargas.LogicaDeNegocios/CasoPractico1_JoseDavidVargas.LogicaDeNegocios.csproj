@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="FlotaAdministrativa\Listar\FlotaAdministrativaLN.cs" />
+    <Compile Include="FlotaAdministrativa\Listar\ListarFlotaAdministrativaLN.cs" />
+    <Compile Include="FlotaAdministrativa\Registrar\RegistrarFlotaAdministrativaLN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -54,6 +54,9 @@
       <Project>{bc4f1264-2d04-4092-823f-16be775008bb}</Project>
       <Name>CasoPractico1_JoseDavidVargas.AccesoADatos</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FlotaAdministrativa\Editar\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

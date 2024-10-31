@@ -42,11 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InterfacesAccesoADatos\FlotaAdministrativa\Listar\IFlotaAdministrativaAD.cs" />
-    <Compile Include="Interfaces\FlotaAdministrativa\Listar\IFlotaAdministrativaLN.cs" />
+    <Compile Include="InterfacesAccesoADatos\FlotaAdministrativa\Listar\IListarFlotaAdministrativaAD.cs" />
+    <Compile Include="InterfacesAccesoADatos\FlotaAdministrativa\Registrar\IRegistrarFlotaAdministrativaAD.cs" />
+    <Compile Include="Interfaces\FlotaAdministrativa\Listar\IListarFlotaAdministrativaLN.cs" />
+    <Compile Include="Interfaces\FlotaAdministrativa\Registrar\IRegistrarFlotaAdministrativaLN.cs" />
     <Compile Include="ModelosAccesoADatos\FlotaAdministrativaBD.cs" />
     <Compile Include="Modelos\FlotaAdministrativa\FlotaAdministrativaDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="InterfacesAccesoADatos\FlotaAdministrativa\Editar\" />
+    <Folder Include="Interfaces\FlotaAdministrativa\Editar\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

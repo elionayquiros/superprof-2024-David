@@ -20,7 +20,7 @@ namespace CasoPractico1_JoseDavidVargas.Abstracciones.ModelosAccesoADatos
         public decimal MontoPorDia { get; set; }
         public decimal MontoDeSeguro { get; set; }
         public DateTime FechaDeRegistro { get; set; }
-        public DateTime FechaDeModificacion { get; set; }
+        public DateTime? FechaDeModificacion { get; set; }
         public bool Estado { get; set; }
 
     }
