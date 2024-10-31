@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/V2/CasoPractico1_JoseDavidVargas/CasoPractico1_JoseDavidVargas.Abstracciones/.vs
+/V2/CasoPractico1_JoseDavidVargas/.vs
+/V2/CasoPractico1_JoseDavidVargas/CasoPractico1_JoseDavidVargas.AccesoADatos/.vs
+/V2/CasoPractico1_JoseDavidVargas/CasoPractico1_JoseDavidVargas.LogicaDeNegocios/.vs
+/V2/CasoPractico1_JoseDavidVargas/CasoPractico1_JoseDavidVargas.UI/.vs

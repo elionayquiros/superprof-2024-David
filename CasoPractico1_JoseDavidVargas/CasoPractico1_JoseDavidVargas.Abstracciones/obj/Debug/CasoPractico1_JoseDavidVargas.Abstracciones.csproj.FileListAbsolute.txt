@@ -1,0 +1,6 @@
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.Abstracciones\bin\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.Abstracciones\bin\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.pdb
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.Abstracciones\obj\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.csproj.AssemblyReference.cache
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.Abstracciones\obj\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.Abstracciones\obj\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.dll
+C:\Users\elioi\OneDrive\SuperProf\2024\David\git\superprof-2024-David\CasoPractico1_JoseDavidVargas\CasoPractico1_JoseDavidVargas.Abstracciones\obj\Debug\CasoPractico1_JoseDavidVargas.Abstracciones.pdb

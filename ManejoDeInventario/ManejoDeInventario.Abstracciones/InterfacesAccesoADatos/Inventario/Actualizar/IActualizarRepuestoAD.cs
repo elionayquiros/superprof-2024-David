@@ -1,9 +1,14 @@
 ﻿using ManejoDeInventario.Abstracciones.ModelosAccesoADatos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ManejoDeInventario.Abstracciones.InterfacesAccesoADatos.Inventario.Actualizar
 {
-    public interface IActualizarRepuestoAD
-    {
-        int Actualizar(Repuestos elRepuestoParaActualizar);
-    }
+	public interface IActualizarRepuestoAD
+	{
+		int Actualizar(Repuestos elRepuestoParaActualizar);
+	}
 }

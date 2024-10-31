@@ -1,7 +1,10 @@
 ﻿using ManejoDeInventario.Abstracciones.Interfaces.Clientes.Listar;
 using ManejoDeInventario.Abstracciones.Modelos.Clientes;
 using ManejoDeInventario.LogicaDeNegocio.Clientes.Listar;
+using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 using System.Web.Mvc;
 
 namespace ManejoDeInventario.UI.Controllers
@@ -11,33 +14,32 @@ namespace ManejoDeInventario.UI.Controllers
 
         IListarClientesLN _listarClientes;
 
-        public ClientesController()
+        public ClientesController ()
         {
             _listarClientes = new ListarClientesLN();
 
-        }
-        // GET: Clientes
-        public ActionResult Index()
+		}
+		// GET: Clientes
+		public ActionResult Index()
         {
             List<ClientesDto> laListaDeClientes = _listarClientes.Listar();
-            return View(laListaDeClientes);
+			return View(laListaDeClientes);
         }
 
         // GET: Clientes/Details/5
         public ActionResult Details()
         {
-            ClientesDto elCliente = new ClientesDto
-            {
-                Correo = "correo@gmail.com",
-                Estado = true,
-                //FechaDeModificacion = DateTime.Now,
-                //FechaDeRegistro = DateTime.Now,
-                Identificación = "00-0000-0000",
-                Nombre = "Nombre",
-                PrimerApellido = "Apellido",
-                SegundoApellido = "Apellido",
-                Telefono = "88888888"
-            };
+            ClientesDto elCliente = new ClientesDto {
+				Correo = "correo@gmail.com",
+				Estado = true,
+				FechaDeModificacion = DateTime.Now,
+				FechaDeRegistro = DateTime.Now,
+				Identificación = "00-0000-0000",
+				Nombre = "Nombre",
+				PrimerApellido = "Apellido",
+				SegundoApellido = "Apellido",
+				Telefono = "88888888"
+			};
             return View(elCliente);
         }
 
@@ -66,20 +68,20 @@ namespace ManejoDeInventario.UI.Controllers
         // GET: Clientes/Edit/5
         public ActionResult Edit()
         {
-            ClientesDto elCliente = new ClientesDto
-            {
-                Correo = "correo@gmail.com",
-                Estado = true,
-                //FechaDeModificacion = DateTime.Now,
-                //FechaDeRegistro = DateTime.Now,
-                Identificación = "00-0000-0000",
-                Nombre = "Nombre",
-                PrimerApellido = "Apellido",
-                SegundoApellido = "Apellido",
-                Telefono = "88888888"
-            };
-            return View(elCliente);
-        }
+			ClientesDto elCliente = new ClientesDto
+			{
+				Correo = "correo@gmail.com",
+				Estado = true,
+				FechaDeModificacion = DateTime.Now,
+				FechaDeRegistro = DateTime.Now,
+				Identificación = "00-0000-0000",
+				Nombre = "Nombre",
+				PrimerApellido = "Apellido",
+				SegundoApellido = "Apellido",
+				Telefono = "88888888"
+			};
+			return View(elCliente);
+		}
 
         // POST: Clientes/Edit/5
         [HttpPost]

@@ -16,28 +16,28 @@ using System.Web.Mvc;
 
 namespace ManejoDeInventario.UI.Controllers
 {
-    public class InventarioController : Controller
+	public class InventarioController : Controller
     {
         IListarRepuestosLN _listarRepuestosLN;
         ICrearRepuestoLN _crearRepuestoLN;
         IObtenerPorIdLN _obtenerRepuestoPorIdLN;
         IActualizarInventarioLN _actualizarInventarioLN;
         IEliminarInventarioLN _eliminarInventarioLN;
-        public InventarioController()
+		public InventarioController ()
         {
             _listarRepuestosLN = new ListarRepuestosLN();
             _crearRepuestoLN = new CrearRepuestoLN();
-            _obtenerRepuestoPorIdLN = new ObtenerPorIdLN();
-            _actualizarInventarioLN = new ActualizarInventarioLN();
+			_obtenerRepuestoPorIdLN = new ObtenerPorIdLN();
+			_actualizarInventarioLN = new ActualizarInventarioLN();
             _eliminarInventarioLN = new EliminarInventarioLN();
 
-        }
-        // GET: Inventario
-        public ActionResult Index()
+		}
+		// GET: Inventario
+		public ActionResult Index()
         {
             ViewBag.Title = "LaListaDeInventario";
             List<RepuestoDto> laListaDeRepuestos = _listarRepuestosLN.Listar();
-            return View(laListaDeRepuestos);
+			return View(laListaDeRepuestos);
         }
 
         // GET: Inventario/Details/5
@@ -59,11 +59,11 @@ namespace ManejoDeInventario.UI.Controllers
         {
             try
             {
-                // TODO: Add insert logic here
-                repuesto.Path = Server.MapPath("~/Archivos/");
-                repuesto.NombreDeArchivo = Path.GetFileName(repuesto.Archivo.FileName);
-                await _crearRepuestoLN.Guardar(repuesto);
-                return RedirectToAction("Index");
+				// TODO: Add insert logic here
+				repuesto.Path = Server.MapPath("~/Archivos/");
+				repuesto.NombreDeArchivo = Path.GetFileName(repuesto.Archivo.FileName);
+				await _crearRepuestoLN.Guardar(repuesto);
+				return RedirectToAction("Index");
             }
             catch
             {
@@ -75,8 +75,8 @@ namespace ManejoDeInventario.UI.Controllers
         public ActionResult Edit(int id)
         {
             RepuestoDto elRepuesto = _obtenerRepuestoPorIdLN.Obtener(id);
-            return View(elRepuesto);
-        }
+			return View(elRepuesto);
+		}
 
         // POST: Inventario/Edit/5
         [HttpPost]
@@ -86,7 +86,7 @@ namespace ManejoDeInventario.UI.Controllers
             {
                 // TODO: Add update logic here
                 int cantidadDeRepuestosActualizados = _actualizarInventarioLN.Actualizar(elRepuesto);
-                return RedirectToAction("Index");
+				return RedirectToAction("Index");
             }
             catch
             {
@@ -98,9 +98,9 @@ namespace ManejoDeInventario.UI.Controllers
         public ActionResult Delete(int id)
         {
             ViewBag.CantidadDeRepuestosActualizados = 1;
-            RepuestoDto elRepuesto = _obtenerRepuestoPorIdLN.Obtener(id);
-            return View(elRepuesto);
-        }
+			RepuestoDto elRepuesto = _obtenerRepuestoPorIdLN.Obtener(id);
+			return View(elRepuesto);
+		}
 
         // POST: Inventario/Delete/5
         [HttpPost]
@@ -110,13 +110,13 @@ namespace ManejoDeInventario.UI.Controllers
             {
                 // TODO: Add delete logic here
                 int cantidadDeElementosEliminados = _eliminarInventarioLN.Eliminar(elRepuesto.Id);
-                if (cantidadDeElementosEliminados == 0)
+                if(cantidadDeElementosEliminados == 0)
                 {
-                    RepuestoDto elRepuestoConsultado = _obtenerRepuestoPorIdLN.Obtener(elRepuesto.Id);
-                    ViewBag.CantidadDeRepuestosActualizados = cantidadDeElementosEliminados;
-                    return View(elRepuestoConsultado);
-                }
-                return RedirectToAction("Index");
+					RepuestoDto elRepuestoConsultado = _obtenerRepuestoPorIdLN.Obtener(elRepuesto.Id);
+					ViewBag.CantidadDeRepuestosActualizados = cantidadDeElementosEliminados;
+					return View(elRepuestoConsultado);
+				}
+				return RedirectToAction("Index");
             }
             catch
             {
@@ -132,9 +132,9 @@ namespace ManejoDeInventario.UI.Controllers
 
         [Route("ObtenerListaDeRepuestos")]
         public JsonResult ObtenerListaDeRepuestos()
-        {
-            List<RepuestoDto> laListaDeRepuestos = _listarRepuestosLN.Listar();
+		{
+			List<RepuestoDto> laListaDeRepuestos = _listarRepuestosLN.Listar();
             return Json(laListaDeRepuestos);
-        }
+		}
     }
 }

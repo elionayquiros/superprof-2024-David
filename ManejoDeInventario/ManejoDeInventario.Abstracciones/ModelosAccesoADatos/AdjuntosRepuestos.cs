@@ -1,11 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ManejoDeInventario.Abstracciones.ModelosAccesoADatos
 {
-    [Table("AdjuntosRepuestos")]
-    public class AdjuntosRepuestos
-    {
+	[Table("AdjuntosRepuestos")]
+	public class AdjuntosRepuestos
+	{
         public int Id { get; set; }
         public string Adjunto { get; set; }
         public DateTime FechaDeRegistro { get; set; }
