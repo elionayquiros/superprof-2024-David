@@ -44,6 +44,7 @@
     <Compile Include="FlotaAdministrativa\Listar\ListarFlotaAdministrativaLN.cs" />
     <Compile Include="FlotaAdministrativa\Registrar\RegistrarFlotaAdministrativaLN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reservacion\Listar\ListarReservacionLN.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CasoPractico1_JoseDavidVargas.Abstracciones\CasoPractico1_JoseDavidVargas.Abstracciones.csproj">
@@ -57,6 +58,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="FlotaAdministrativa\Editar\" />
+    <Folder Include="Reservacion\Consultar\" />
+    <Folder Include="Reservacion\Registrar\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

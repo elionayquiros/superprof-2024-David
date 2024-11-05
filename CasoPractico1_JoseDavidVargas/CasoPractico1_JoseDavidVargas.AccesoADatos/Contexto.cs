@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-//using ManejoDeInventario.Abstracciones.ModelosAccesoADatos;
+﻿using System.Data.Entity;
 using CasoPractico1_JoseDavidVargas.Abstracciones.ModelosAccesoADatos;
 
 namespace CasoPractico1_JoseDavidVargas.AccesoADatos
@@ -14,11 +8,10 @@ namespace CasoPractico1_JoseDavidVargas.AccesoADatos
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Entity<FlotaAdministrativaBD>().ToTable("FLOTA_ADMINISTRATIVA");
-            //modelBuilder.Entity<AdjuntosRepuestos>().ToTable("AdjuntosRepuestos");
-
+            modelBuilder.Entity<ReservacionBD>().ToTable("RESERVACIONES");
         }
         public DbSet<FlotaAdministrativaBD> FlotaAdministrativa { get; set; }
-        //public DbSet<AdjuntosRepuestos> AdjuntosRepuestos { get; set; }
+        public DbSet<ReservacionBD> Reservacion { get; set; }
         
     }
 }

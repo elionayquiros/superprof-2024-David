@@ -29,8 +29,8 @@ namespace CasoPractico1_JoseDavidVargas.UI.Controllers
             return View(laListaDeVehiculos);            
         }
 
-        // GET: FlotaAdministrativa/Details/5
-        public ActionResult Details(int id)
+        // GET: FlotaAdministrativa/History/5
+        public ActionResult Histoy(int id)
         {
             return View();
         }

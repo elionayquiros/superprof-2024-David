@@ -1,0 +1,123 @@
+﻿@model IEnumerable<CasoPractico1_JoseDavidVargas.Abstracciones.Modelos.Reservacion.ReservacionDto>
+
+<main>
+    <p>
+        @Html.ActionLink("Nueva reservación", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Correo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Identificacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaNacimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TarjetaDeCredito)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdVehiculo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoPorDia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MontoSeguro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaInicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaFin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaDeRegistro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantidadDeDias)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioTotal)
+            </th>
+            <!--
+    <th>
+        @Html.DisplayNameFor(model => model.Estado)
+    </th>
+        -->
+            <th>
+                @Html.DisplayNameFor(model => model.DetalleEstado)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreCliente)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefono)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Correo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Identificacion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaNacimiento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TarjetaDeCredito)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdVehiculo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MontoPorDia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MontoSeguro)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaInicio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaFin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaDeRegistro)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CantidadDeDias)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioTotal)
+                </td>
+                <!--
+    <td>
+        @Html.DisplayFor(modelItem => item.Estado)
+    </td>
+        -->
+                <td>
+                    @Html.DisplayFor(modelItem => item.DetalleEstado)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id })                    
+                </td>
+            </tr>
+        }
+
+    </table>
+</main>

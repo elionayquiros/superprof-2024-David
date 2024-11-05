@@ -44,15 +44,23 @@
   <ItemGroup>
     <Compile Include="InterfacesAccesoADatos\FlotaAdministrativa\Listar\IListarFlotaAdministrativaAD.cs" />
     <Compile Include="InterfacesAccesoADatos\FlotaAdministrativa\Registrar\IRegistrarFlotaAdministrativaAD.cs" />
+    <Compile Include="InterfacesAccesoADatos\Reservacion\Listar\IListarReservacionAD.cs" />
     <Compile Include="Interfaces\FlotaAdministrativa\Listar\IListarFlotaAdministrativaLN.cs" />
     <Compile Include="Interfaces\FlotaAdministrativa\Registrar\IRegistrarFlotaAdministrativaLN.cs" />
-    <Compile Include="ModelosAccesoADatos\FlotaAdministrativaBD.cs" />
+    <Compile Include="Interfaces\Reservacion\Listar\IListarFlotaAdministrativaLN.cs" />
+    <Compile Include="ModelosAccesoADatos\FlotaAdministrativa\FlotaAdministrativaBD.cs" />
+    <Compile Include="ModelosAccesoADatos\Reservacion\ReservacionBD.cs" />
     <Compile Include="Modelos\FlotaAdministrativa\FlotaAdministrativaDto.cs" />
+    <Compile Include="Modelos\Reservacion\ReservacionDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="InterfacesAccesoADatos\FlotaAdministrativa\Editar\" />
+    <Folder Include="InterfacesAccesoADatos\Reservacion\Consultar\" />
+    <Folder Include="InterfacesAccesoADatos\Reservacion\Registrar\" />
     <Folder Include="Interfaces\FlotaAdministrativa\Editar\" />
+    <Folder Include="Interfaces\Reservacion\Consultar\" />
+    <Folder Include="Interfaces\Reservacion\Registrar\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

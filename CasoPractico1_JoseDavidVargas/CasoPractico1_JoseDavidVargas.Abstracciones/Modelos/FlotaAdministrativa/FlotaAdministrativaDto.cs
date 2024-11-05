@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CasoPractico1_JoseDavidVargas.Abstracciones.Modelos.FlotaAdministrativa
 {
@@ -25,16 +20,7 @@ namespace CasoPractico1_JoseDavidVargas.Abstracciones.Modelos.FlotaAdministrativ
         
         [DisplayName("Tipo de vehiculo")]
         [Required]
-        //buscar dataannotation para restringir valores a 1, 2 y 3        
         public int TipoDeVehiculo { get; set; }
-
-        [NotMapped]
-        public string DetalleTipo {
-            get
-            {
-                return "Automovil";                
-            }
-        }
 
         [DisplayName("Monto por día")]
         [Required]

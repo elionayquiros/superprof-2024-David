@@ -71,7 +71,8 @@
                     @Html.DisplayFor(modelItem => item.Estado)
                 </td>
                 <td>
-                    @Html.ActionLink("Editar", "Edit", new { id = item.Id })                     
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id })
+                    @Html.ActionLink("Historico", "History", new { id = item.Id }) 
                 </td>
             </tr>
         }
